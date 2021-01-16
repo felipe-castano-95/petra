@@ -108,5 +108,5 @@ To train a new neural network model is necessary to get the LIDAR data and label
 
 ### Network Model Training
 
-Once the data to train the network is ready, its time to train the model. The neural_network folder contains a README with the necessary steps to train the model. 
+Once the data to train the network is ready, its time to train the model. The neural_network folder contains a README with the necessary steps to train the model 
 
